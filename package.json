@@ -1,1 +1,10 @@
-"# devops-frontend-project" 
+{
+    "name": "devops-frontend-project",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "webpack serve --mode development"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
